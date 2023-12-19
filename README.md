@@ -13,10 +13,6 @@ Enter numbers and perform calculations using the provided buttons.
 Click on the arithmetic operation buttons to perform calculations.
 Use parentheses for complex expressions.
 Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/calculator.git
 Open the index.html file in your web browser.
 File Structure
 index.html: Main HTML file containing the calculator layout.
